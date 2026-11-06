@@ -25,7 +25,7 @@ function App() {
             onClick={() => setIsOpen(true)}
             className="bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold px-8 py-3.5 rounded-xl transition-all shadow-[0_0_20px_rgba(6,182,212,0.4)] hover:scale-105"
           >
-            Iniciar sesión / Registrarse
+            Login / Register
           </button>
         </div>
       )}
